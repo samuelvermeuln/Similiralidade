@@ -1,0 +1,67 @@
+{
+  "Candidato": [
+    {
+      "nome": "Samuel",
+      "telefone": "123",
+      "email": "@ucl.br",
+      "endereco": "Rua:pequia",
+      "skills": "JS",
+      "experiencia": "24",
+      "pretensaoSalarial": 1500
+    },
+    {
+      "nome": "samuel.santos",
+      "telefone": "27999808088",
+      "email": "vermeuln@ucl.br",
+      "endereco": "Feu rosa, Serra, ES",
+      "skills": "C#, React, JS",
+      "experiencia": "6",
+      "pretensaoSalarial": "2500"
+    }
+  ],
+  "Empresa": [
+    {
+      "nome": "UCL",
+      "cnpj": "123456",
+      "endereco": "manguinhos",
+      "telefone": "4321",
+      "email": "@ucl.br"
+    },
+    {
+      "nome": "new UCL",
+      "cnpj": "987654321",
+      "endereco": "serra",
+      "telefone": "123456",
+      "email": "@ucl.br"
+    }
+  ],
+  "Vagas": [
+    {
+      "titulo": "procura dev py",
+      "skills": "PY",
+      "experiencia": "12",
+      "salario": 1000,
+      "tipo": "PJ",
+      "local": "Vitoria",
+      "nomeEmpresa": "UCL"
+    },
+    {
+      "titulo": "procura dev c#",
+      "skills": "C#",
+      "experiencia": "4",
+      "salario": 2000,
+      "tipo": "clt",
+      "local": "Serra",
+      "nomeEmpresa": "UCL"
+    },
+    {
+      "titulo": "procura dev js",
+      "skills": "JS",
+      "experiencia": "24",
+      "salario": 2500,
+      "tipo": "PJ",
+      "local": "Vitoria",
+      "nomeEmpresa": "CREAES"
+    }
+  ]
+}

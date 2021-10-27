@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iL5PqoSJzDQX+tX49XyXC3FY+Ahf2RJQhi1gEb+KY77zC2o3fhzq8FhmNGjEIlq4OckxzevIUhhqdn3AQNt/WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samuel\\Documents\\GitHub\\Programação-Avançada C#\\Projeto2PAHemera\\Projet 01 Prog. Avançado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samuel\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

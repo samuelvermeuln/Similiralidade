@@ -1,0 +1,32 @@
+C:\Users\samuel\Documents\GitHub\Nova pasta\Projet 01 Prog. Avançado\bin\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.exe
+C:\Users\samuel\Documents\GitHub\Nova pasta\Projet 01 Prog. Avançado\bin\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.deps.json
+C:\Users\samuel\Documents\GitHub\Nova pasta\Projet 01 Prog. Avançado\bin\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.runtimeconfig.json
+C:\Users\samuel\Documents\GitHub\Nova pasta\Projet 01 Prog. Avançado\bin\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.runtimeconfig.dev.json
+C:\Users\samuel\Documents\GitHub\Nova pasta\Projet 01 Prog. Avançado\bin\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.dll
+C:\Users\samuel\Documents\GitHub\Nova pasta\Projet 01 Prog. Avançado\bin\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.pdb
+C:\Users\samuel\Documents\GitHub\Nova pasta\Projet 01 Prog. Avançado\obj\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.csproj.AssemblyReference.cache
+C:\Users\samuel\Documents\GitHub\Nova pasta\Projet 01 Prog. Avançado\obj\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.AssemblyInfoInputs.cache
+C:\Users\samuel\Documents\GitHub\Nova pasta\Projet 01 Prog. Avançado\obj\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.AssemblyInfo.cs
+C:\Users\samuel\Documents\GitHub\Nova pasta\Projet 01 Prog. Avançado\obj\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.csproj.CoreCompileInputs.cache
+C:\Users\samuel\Documents\GitHub\Nova pasta\Projet 01 Prog. Avançado\obj\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.dll
+C:\Users\samuel\Documents\GitHub\Nova pasta\Projet 01 Prog. Avançado\obj\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.pdb
+C:\Users\samuel\Documents\GitHub\Nova pasta\Projet 01 Prog. Avançado\obj\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.genruntimeconfig.cache
+C:\Users\samuel\Documents\GitHub\Nova pasta\Projet 01 Prog. Avançado\bin\Debug\netcoreapp3.1\BD.json
+C:\Users\samuel\Documents\GitHub\Nova pasta\Projet 01 Prog. Avançado\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\samuel\Documents\GitHub\Nova pasta\Projet 01 Prog. Avançado\obj\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.csproj.CopyComplete
+C:\Users\samuel\Documents\GitHub\Programação-Avançada C#\Projeto2PAHemera\bin\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.exe
+C:\Users\samuel\Documents\GitHub\Programação-Avançada C#\Projeto2PAHemera\bin\Debug\netcoreapp3.1\BD.json
+C:\Users\samuel\Documents\GitHub\Programação-Avançada C#\Projeto2PAHemera\bin\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.deps.json
+C:\Users\samuel\Documents\GitHub\Programação-Avançada C#\Projeto2PAHemera\bin\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.runtimeconfig.json
+C:\Users\samuel\Documents\GitHub\Programação-Avançada C#\Projeto2PAHemera\bin\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.runtimeconfig.dev.json
+C:\Users\samuel\Documents\GitHub\Programação-Avançada C#\Projeto2PAHemera\bin\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.dll
+C:\Users\samuel\Documents\GitHub\Programação-Avançada C#\Projeto2PAHemera\bin\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.pdb
+C:\Users\samuel\Documents\GitHub\Programação-Avançada C#\Projeto2PAHemera\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\samuel\Documents\GitHub\Programação-Avançada C#\Projeto2PAHemera\obj\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.csproj.AssemblyReference.cache
+C:\Users\samuel\Documents\GitHub\Programação-Avançada C#\Projeto2PAHemera\obj\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.AssemblyInfoInputs.cache
+C:\Users\samuel\Documents\GitHub\Programação-Avançada C#\Projeto2PAHemera\obj\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.AssemblyInfo.cs
+C:\Users\samuel\Documents\GitHub\Programação-Avançada C#\Projeto2PAHemera\obj\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.csproj.CoreCompileInputs.cache
+C:\Users\samuel\Documents\GitHub\Programação-Avançada C#\Projeto2PAHemera\obj\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.csproj.CopyComplete
+C:\Users\samuel\Documents\GitHub\Programação-Avançada C#\Projeto2PAHemera\obj\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.dll
+C:\Users\samuel\Documents\GitHub\Programação-Avançada C#\Projeto2PAHemera\obj\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.pdb
+C:\Users\samuel\Documents\GitHub\Programação-Avançada C#\Projeto2PAHemera\obj\Debug\netcoreapp3.1\Projet 01 Prog. Avançado.genruntimeconfig.cache
